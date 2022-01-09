@@ -1,0 +1,102 @@
+body {
+  background-image: url(invoker.jpg);
+}
+.container {
+  width: 800px;
+  height: 300px;
+  background: rgba(255, 255, 255, 0.719);
+  margin: auto;
+  padding: 20px;
+  position:relative;
+  box-sizing: border-box;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  margin: 30px;
+  margin-left: 20px;
+  float: left;
+  border-radius: 20px;
+}
+h3 {
+  position: absolute;
+  top: -20px;
+  font-family: arial;
+  font-size: 28px;
+}
+
+h1 {
+  font-family: arial;
+  font-size: 46px;
+  font-weight: bold;
+  text-align: center;
+  color: red;
+}
+#gambar{
+    border-radius: 20px;
+}
+
+.container1 {
+  width: 600px;
+  height: 1600px;
+  background: black;
+  margin: auto;
+  padding: 20px;
+}
+
+
+.hero {
+  width: 600px;
+  height: 300px;
+  background-image: url(2.jpg);
+  margin: auto;
+  border-radius: 10px;
+  background-size: contain;
+}
+
+.hero1 {
+  width: 600px;
+  height: 300px;
+  background-image: url(3.jpg);
+  margin: auto;
+  border-radius: 10px;
+  background-size: contain;
+}
+
+.hero2 {
+  width: 600px;
+  height: 300px;
+  background-image: url(4.png);
+  margin: auto;
+  border-radius: 10px;
+  background-size: contain;
+}
+p {
+  color:white;
+  font-family: arial;
+  background-color: black;
+  border-color:white;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 2px;
+}
+
+a {
+  color: black;
+  font-family: arial;
+}
+.link_container{
+  display: flex;
+  justify-content: flex-end;
+}
+
+audio {
+  margin-top: 30px;
+}
+img{ border-radius: 20px;}
+
